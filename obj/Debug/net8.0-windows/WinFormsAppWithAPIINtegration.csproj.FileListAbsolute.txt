@@ -1,0 +1,7 @@
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.csproj.AssemblyReference.cache
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.Form1.resources
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.csproj.GenerateResource.cache
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.AssemblyInfoInputs.cache
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.AssemblyInfo.cs
+C:\Users\Student\workspace\source\WinFormsAppWithAPIINtegration\obj\Debug\net8.0-windows\WinFormsAppWithAPIINtegration.csproj.CoreCompileInputs.cache
