@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WinFormsAppWithAPIINtegration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afff5095fdef53ce562e23b2a7663b381cffd7c1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d854d97fa23614a0e08068dce1fe8a68340ef31")]
 [assembly: System.Reflection.AssemblyProductAttribute("WinFormsAppWithAPIINtegration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WinFormsAppWithAPIINtegration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

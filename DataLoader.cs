@@ -41,6 +41,24 @@ namespace WinFormsAppWithAPIINtegration
             }
             return treatments;
         }
+
+        public bool AddTreatment(Procedure procedure)
+        {
+            string path = Path.Combine(this.GameSaves, this.folder);
+            if (procedure != null)
+            {
+                string json = JsonConvert.SerializeObject(procedure);
+
+                Directory.CreateDirectory(path);
+
+                File.AppendAllText(Path.Combine(path, this.file), json);
+                return true;
+            }
+            return false;
+        }
+
+
+    }
         
     }
-}
+

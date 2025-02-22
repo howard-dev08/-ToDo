@@ -385,11 +385,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Student\\Source\\Repos\\-ToDo\\WinFormsAppWithAPIINtegration.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\workspace\\source\\ToDoCloneBranch\\WinFormsAppWithAPIINtegration.csproj",
       "projectName": "WinFormsAppWithAPIINtegration",
-      "projectPath": "C:\\Users\\Student\\Source\\Repos\\-ToDo\\WinFormsAppWithAPIINtegration.csproj",
+      "projectPath": "C:\\Users\\Student\\workspace\\source\\ToDoCloneBranch\\WinFormsAppWithAPIINtegration.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Student\\Source\\Repos\\-ToDo\\obj\\",
+      "outputPath": "C:\\Users\\Student\\workspace\\source\\ToDoCloneBranch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

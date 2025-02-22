@@ -13,11 +13,8 @@ namespace WinFormsAppWithAPIINtegration
 
         private void button1_Click(object sender, EventArgs e)
         {
-            ChatClient client = new(model: "gpt-4o-mini", apiKey: ("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"));
+            ChatClient client = new(model: "gpt-4o-mini", apiKey: ("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"));
 
-            //ChatCompletion completion = client.CompleteChat("Say 'this is a test.'");
-
-            //Console.WriteLine($"[ASSISTANT]: {completion.Content[0].Text}");
 
             List<ChatMessage> messages =
             [
@@ -28,11 +25,17 @@ namespace WinFormsAppWithAPIINtegration
 
             //using JsonDocument structuredJson = JsonDocument.Parse(completion.Content[0].Text);
 
-            this.OutPutBox.Text=($"Final answer: " + completion.Content[0].Text);
+            this.OutPutBox.Text = ($"Final answer: " + completion.Content[0].Text);
             this.OutPutBox.Show();
             //Console.WriteLine("Reasoning steps:");
 
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DataInputForm dataInputForm= new DataInputForm();
+            dataInputForm.Show();
         }
     }
 }
